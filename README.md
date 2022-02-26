@@ -13,7 +13,7 @@
 - I currently have 9 years of Crypto Trading Experience.
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I Dropped out of school at age 13 because I wanted to follow my dreams of working with computers.
-- Jabber: __sylvester.polzi.net__
+- Jabber: __sylvester@polzi.net__
 
 ---
 
