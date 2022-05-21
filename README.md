@@ -8,9 +8,8 @@
 <!-- Talking about you -->
 **About Me:**
 
-- Our most recent project: __[Crime Wiki](https://crime.wiki)__.
-- I’m currently learning:  __Ruby__, __PHP__, & __GoLang__.
-- I currently have 9 years of Crypto Trading Experience.
+- I’m currently learning:  __Ruby__, & __GoLang__.
+- I currently have 9 years of Crypto Trading Experience, and around 18 years learning how to click buttons!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I Dropped out of school at age 13 because I wanted to follow my dreams of working with computers.
 - Jabber: __sylvester@polzi.net__
